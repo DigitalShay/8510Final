@@ -1,0 +1,51 @@
+Game,Year,Score,Genre,Platform_Reviewed,Developer,Publisher,Article_Writer,Doc_ID
+God of War Ragnarok,2022,10,Action Adventure,N/A,Santa Monica Studio,Sony Interactive Entertainment,Simon Candy,godofwarragnarok.txt
+Dwarf Fortress,2022,10,Strategy RPG,PC,Bay 12 Games,Kitfox Games,Jon Bolding,dwarffortress.txt
+Elden Ring,2022,10,Action RPG,N/A,From Software,Bandai Namco Entertainment,Mitchell Saltzman,eldenring.txt
+Pentiment,2022,10,Adventure,PC,Obsidian Entertainment,Xbox Game Studios,Leana Hafer,pentiment.txt
+As Dusk Falls,2022,9,Adventure,PC,Interior/Night,Xbox Game Studios,Gabriel Moss,asduskfalls.txt
+Rollerdrome,2022,9,Action,PS5,Roll7,Private Division,Jonathon Dornbush,rollerdrome.txt
+Splatoon 3,2022,9,Team Shooter,Nintendo Switch,Nintendo,Nintendo,Brendan Graeber,splatoon.txt
+Rumbleverse,2022,9,Battle Royale,PS5,Iron Galaxy,Epic Games,Mitchell Saltzman,rumbleverse.txt
+Rogue Legacy 2,2022,9,Roguelite,N/A,Cellar Door,Cellar Doors,Mitchell Saltzman,roguelegacy.txt
+OlliOlli World,2022,9,Sports,N/A,Roll7,Private Division,Cam Shea,olliolliworld.txt
+Forza Horizon 5,2021,10,Racing,Xbox Series X,Playground Games,Xbox Game Studios,Luke Reilly,forzahorizon.txt
+Life is Strange: True Colors,2021,9,Graphic Adventure,N/A,Deck Nine,Square Enix,Taylor Lyles,lifeisstrangetruecolors.txt
+Knockout City,2021,9,Action,N/A,Velan Studios,Electronic Arts,Jarrett Green,knockoutcity.txt
+It Takes Two,2021,9,Platformer,N/A,Hazelight Studios,Electronic Arts,Tristan Ogilvie,ittakestwo.txt
+Hot Wheels Unleashed,2021,9,Racing,N/A,Milestone,Milestone,Luke Reilly,hotwheelsunleashed.txt
+The Last Campfire,2021,9,Puzzle Adventure,N/A,Hello Games,Hello Games,Simon Cardy,thelastcampfire.txt
+Chicory: A Colorful Tale,2021,9,Adventure,N/A,Greg Lobanov,Finji,Rebekah Valentine,chicoryacolorfultale.txt
+Dead By Daylight,2021,9,Survival Horror,N/A,Behaviour Interactive,Multiple,Mike Epstein,deadbydaylight.txt
+Wildermyth,2021,9,Tactical RPG,N/A,Worldwalker Games,Worldwalker Games,Rowan Kaiser,wildermyth.txt
+Metroid Dread,2021,9,Metroidvania,Nintendo Switch,MercurySteam,Nintendo,Samuel Claiborn,metroiddread.txt
+Spelunky 2,2020,10,Roguelite,N/A,BlitWorks,Mossmouth,Mitchell Saltzman,spelunky.txt
+Doom Eternal,2020,9,First Person Shooter,N/A,id Software,Bethesda Software,Ryan McCaffrey,doometernal.txt
+Paradise Killer,2020,9,Adventure,N/A,Kaizen Game Works,Fellow Traveller,Joe Skrebels,paradisekiller.txt
+Spider-Man: Miles Morales,2020,9,Action Adventure,N/A,Insomniac Games,Sony Interactive Entertainment,Jonathon Dornbush,spidermanmilesmorales.txt
+Hades,2020,9,Roguelite,N/A,Supergiant Games,Supergiant Games,Nick Limon,hades.txt
+Genshin Impact,2020,9,Action RPG,N/A,miHoYo,miHoYo,Travis Northup,genshinimpact.txt
+Valorant,2020,9,Team Shooter,N/A,Riot Games,Riot Games,Kyle Campbell,valorant.txt
+Nioh 2,2020,9,Action RPG,N/A,Team Ninja,Sony Interactive Entertainment,Mitchell Saltzman,nioh.txt
+Ghost of Tsushima,2020,9,Action Adventure,N/A,Sucker Punch Productions,Sony Interactive Entertainment,Mitchell Saltzman,ghostoftsushima.txt
+Dreams,2020,9,Sandbox,N/A,Media Molecule,Sony Interactive Entertainment,Simon Cardy,dreams.txt
+Disco Elysium,2019,9.6,RPG,N/A,ZA/UM,ZA/UM,Simon Cardy,discoelysium.txt
+Sekiro: Shadows Die Twice,2019,9.5,Action Adventure,N/A,From Software,Activision,Brandin Tyrrel,sekiroshadowsdietwice.txt
+Devil May Cry 5,2019,9.5,Hack and Slash,N/A,Capcom,Capcom,Mitchell Saltzman,devilmaycry.txt
+Super Mario Maker 2,2019,9.5,Platformer,Nintendo Switch,Nintendo,Nintendo,Seth G. Macy,supermariomaker.txt
+Pokemon Sword/Shield,2019,9.3,Turn Based RPG,Nintendo Switch,Game Freak,Nintendo,Casey DeFreitas,pokemonswordshield.txt
+Astral Chain,2019,9,Hack and Slash,Nintendo Switch,PlatinumGames,Nintendo,Steven Petite,astralchain.txt
+Star Wars Jedi: Fallen Order,2019,9,Action Adventure,PC,Respawn Entertainment,Electronic Arts,Dan Stapleton,starwarsjedifallenorder.txt
+Slay the Spire,2019,9,Roguelite,N/A,Mega Crit,Humble Bundle,Tom Marks,slaythespire.txt
+Observation,2019,9,Puzzle Adventure,N/A,No Code,Devolver Digital,Simon Cardy,observation.txt
+Telling Lies,2019,9,Interactive Film,N/A,Furious Bee,Annapurna Interactive,Samuel Horti,tellinglies.txt
+Undertale,2018,10,RPG,N/A,Toby Fox,Toby Fox,Kallie Plagge,undertale.txt
+Red Dead Redemption 2,2018,10,Action Adventure,N/A,Rockstar Studios,Rockstar Games,Luke Reilly,reddeadredemption.txt
+God of War,2018,10,Action Adventure,PS4,Santa Monica Studio,Sony Interactive Entertainment,Jonathon Dornbush,godofwar.txt
+Monster Hunter: World,2018,9.5,Action RPG,PS4,Capcom,Capcom,Joe Skrebels,monsterhunterworld.txt
+Thronebreaker: The Witcher Tales,2018,9.4,RPG,N/A,CD Projekt Red,CD Projekt,Leana Hafer,thronebreakerthewitchertales.txt
+Super Smash Bros Ultimate,2018,9.4,Fighting Game,Nintendo Switch,Bandai Namco Studios,Nintendo,Tom Marks,supersmashbrosultimate.txt
+Hollow Knight,2018,9.4,Metroidvania,N/A,Team Cherry,Team Cherry,Tom Marks,hollowknight.txt
+Octopath Traveler,2018,9.3,Turn Based RPG,Nintendo Switch,Acquire,Square Enix,Seth G. Macy,octopathtraveler.txt
+Guacamelee! 2,2018,9.3,Metroidvania,N/A,DrinkBox Studios,DrinkBox Studios,Jonathon Dornbush,guacamelee.txt
+Return of the Obra Dinn,2018,9.2,Puzzle Adventure,N/A,Lucas Pope,3909 LLC,Tom Marks,returnoftheobradinn.txt
